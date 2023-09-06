@@ -1,3 +1,4 @@
+![Screenshot](dotplot_final.jpeg)
 ## Instructions, run dotplot.py
 ```
 python3 dotplot.py file1 file2 #lines #cores
